@@ -1,3 +1,3 @@
 # todolist
 
-To-Do List Web app
+A Simple To-Do List Web app
