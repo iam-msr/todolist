@@ -13,4 +13,4 @@
 ## NOTE: _In index.js follow the below instructions to finish the project with your own DataBase_ 
 > " mongoose.connect("link") "
 <br>
-=> Watch the [video](https://youtu.be/bBA9rUdqmgY?t=375) and create your own DataBase and replace link with your own MongoDB DataBase link
+=> Watch the [[video]([url](https://youtu.be/bBA9rUdqmgY?t=375))](https://youtu.be/bBA9rUdqmgY?t=375) and create your own DataBase and replace link with your own MongoDB DataBase link
