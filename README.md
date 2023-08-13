@@ -15,4 +15,4 @@ If your machine don't have Node, install it first.
 ## NOTE: _In index.js follow the below instructions to finish the project with your own DataBase_ 
 > " mongoose.connect("link") "
 <br>
-=> Watch the [video](https://youtu.be/bBA9rUdqmgY?t=375) and create your own DataBase and replace _link_ and connect your dataBase.
+=> Watch the (https://youtu.be/bBA9rUdqmgY?t=375) and create your own DataBase by replacing _link_ to connect your project with your dataBase
