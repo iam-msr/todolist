@@ -1,6 +1,6 @@
 # A Simple To-Do List Web app
 
-If your machine don't have Node, install it first.
+_❗If your machine don't have Node, install it first._
 
 1) `git clone https://github.com/iam-msr/todolist.git`
 
