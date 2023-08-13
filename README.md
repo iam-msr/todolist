@@ -10,4 +10,4 @@ A Simple To-Do List Web app
 
 4) `npm start`
 
-5) 
+5) go to ###`http://localhost:3000/`
