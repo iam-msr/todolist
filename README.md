@@ -12,5 +12,5 @@
 
 ## NOTE: _In index.js follow the below instructions to finish the project with your own DataBase_ 
 => mongoose.connect("link");
-=> use your own mongoDB database by creating one.
-=> Watch the video[https://youtu.be/bBA9rUdqmgY?t=375]
+=> use your own mongoDB database by creating one.;
+=> Watch the video[https://youtu.be/bBA9rUdqmgY?t=375];
