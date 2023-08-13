@@ -1,6 +1,4 @@
-# todolist
-
-A Simple To-Do List Web app
+# A Simple To-Do List Web app
 
 1) `git clone https://github.com/iam-msr/todolist.git`
 
@@ -10,8 +8,9 @@ A Simple To-Do List Web app
 
 4) `npm start`
 
-5) go to `http://localhost:3000/`
+5) Server runs at port 3000. Go to `http://localhost:3000/`
 
-## NOTE: In index.js 
+## NOTE: _In index.js follow the below instructions to finish the project with your own DataBase_ 
 => mongoose.connect("link");
-=> put your own mongoDB database server link by creating one in MongoDB 
+=> use your own mongoDB database by creating one.
+=> Watch the video[https://youtu.be/bBA9rUdqmgY?t=375]
