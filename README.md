@@ -16,3 +16,4 @@
 > " mongoose.connect("chang_me") "
 <br>
 => Watch the (https://youtu.be/bBA9rUdqmgY?t=375) and create your own DataBase by replacing  "chang_me" with  the DataBase link to connect your project with your dataBase.
+![Sample View of Project](images/todolist_screenshot.png)
