@@ -15,5 +15,5 @@
 ### NOTE: _In index.js follow the below instructions to finish the project with your own DataBase_ 
 > " mongoose.connect("chang_me") "
 <br>
-=> Watch the (https://youtu.be/bBA9rUdqmgY?t=375) and create your own DataBase by replacing  "chang_me" with  the DataBase link to connect your project with your dataBase.
+=> Watch the (https://youtu.be/bBA9rUdqmgY?t=375) and create your own DataBase by replacing  "chang_me" with  the DataBase link to connect your project with your dataBase.<br>
 <img src="./public/images/todolist_screenshot.jpg" alt="Sample view of Project" />
